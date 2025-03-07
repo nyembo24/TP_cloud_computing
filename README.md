@@ -6,3 +6,4 @@
 4. Mbusa safari Jacob: [https://github.com/MBUSASAFARI](https://github.com/MBUSASAFARI)
 5. Mbusa limite John: [https://github.com/JOHNLIMETE](https://github.com/JOHNLIMETE)
 6. Mumbere mwandu Élie:[https://github.com/elie-dev2](https://github.com/elie-dev2)
+7. kasereka tembo Luc [https://github.com/lucthembo](https://github.com/lucthembo)
